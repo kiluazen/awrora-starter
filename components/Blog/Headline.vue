@@ -1,7 +1,7 @@
 <template>
   <v-card :href="link.starter.blogDetail" class="blog-headline" dark>
     <v-img
-      src="https://source.unsplash.com/random/?landscape"
+      src="https://picsum.photos/800/450"
       class="text-white align-end"
       gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.8)"
       max-height="460px"
