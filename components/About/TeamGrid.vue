@@ -10,7 +10,7 @@
           :connection="100"
           :favorites="10"
           :albums="12"
-          cover="https://source.unsplash.com/random/?landscape"
+          cover="https://picsum.photos/800/450"
           name="John Dalton"
           title="Web Designer"
           type="full"
